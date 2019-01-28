@@ -59,10 +59,10 @@ p{
     position: relative;
     top: 9999px;
     transform-origin: 50% 100%;
-    animation: crawl 60s linear;
+    animation: crawl 150s linear;
     animation-delay: 10s;
   }
-  
+
   .crawl > .title {
     font-size: 90%;
     text-align: center;
@@ -112,5 +112,3 @@ p{
       transform: rotateX(25deg) translateZ(-2500px);
     }
   }
-
-  
