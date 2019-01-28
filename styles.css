@@ -28,7 +28,7 @@ p{
     position: absolute;
     animation: logo 6s ease-out 6s;
     opacity: 0;
-    margin-left: 23%;
+    margin-left: 15%;   
 }
 
   .fade {
